@@ -32,7 +32,7 @@ Python requirements:
   
   ```
   
-2. HunPos Tagger
+2. CRF++ Pos Tagger
   
   Type following commands on your terminal:
    
