@@ -4,7 +4,7 @@ The process of assigning one of the parts of speech to the given word is called 
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites for this project
 
 First of all, you must have HunPos scripts and CRF++ present in your system. For HunPos, download this [zipped file](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/hunpos/hunpos-1.0-linux.tgz). And for CRF++ see [here](https://taku910.github.io/crfpp/#download).
 
